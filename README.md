@@ -9,4 +9,4 @@
 4. Din directorul `main` rulați `npm install`
 5. Din directorul `main` rulați `npm test`
 6. Faceți commit și push pentru schimbările făcute
-7. Dați share repository-ului cu `iosimliviu` (Settings>Collaborators>Manage Access)
+7. Dați share repository-ului cu `iosimliviu` (Settings>Collaborators>Manage Access)# Assignement3_WebTech_Daia-Creinicean_Luca
